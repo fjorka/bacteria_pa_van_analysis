@@ -1,4 +1,4 @@
-# Analysis of bacteria features
+# Analysis of bacteria treated with antimicrobial fatty acids
 
 Analysis accompany publication in preparation:
 
