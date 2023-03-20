@@ -13,5 +13,6 @@ Antibiotic-induced accumulation of lipid II sensitizes bacteria to antimicrobial
 
 https://www.biorxiv.org/content/10.1101/2022.05.03.490474v1.full.pdf
 
-All data available here:
- 
+Data available here:
+
+https://zenodo.org/record/7753640#.ZBi-_HbMIQ9
