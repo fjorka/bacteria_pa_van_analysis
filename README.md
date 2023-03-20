@@ -2,7 +2,7 @@
 
 Analysis accompanies publication:
 
-Ashelyn E SiddersKatarzyna M KedzioraMelina ArtsJan-Martin DanielStefania de BenedettiJenna E BeamDuyen T BuiJoshua B ParsonsTanja SchneiderSarah E RoweBrian P Conlon (2023) Antibiotic-induced accumulation of lipid II synergizes with antimicrobial fatty acids to eradicate bacterial populations eLife 12:e80246.
+Ashelyn E Sidders, Katarzyna M Kedziora, Melina Arts, Jan-Martin Daniel, Stefania de Benedetti, Jenna E Beam, Duyen T Bui, Joshua B Parsons, Tanja Schneider, Sarah E Rowe, Brian P Conlon (2023) Antibiotic-induced accumulation of lipid II synergizes with antimicrobial fatty acids to eradicate bacterial populations eLife 12:e80246.
 
 https://doi.org/10.7554/eLife.80246 
 
